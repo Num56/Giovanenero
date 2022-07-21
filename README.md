@@ -1,4 +1,4 @@
-## Hi!! I'm Giovane Limas Salvi 👋
+## Hi!! Welcome to my profile 👋
 
 - 🟢🟡 I'm currently living in Brazil
 - 🔭 I’m currently Computer Engineering student at the Federal Technological University of Paraná(UTFPR);
@@ -6,7 +6,6 @@
 - 🤔 I’m looking for a job;
 - 💬 Ask me about games and studies;
 - 😄 Pronouns: Nano or Gege;
-<!--- 📫 How to reach me: giovanesalvi@alunos.utfpr.edu.br(preference) or giovanelimas16@hotmail.com;-->
 
 <!-- Tabela -->
 <div align="center">
@@ -30,10 +29,7 @@
   <a href="mailto:giovanelimas16@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/giovane-limas-salvi-726193245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/profile.php?id=100009005492236&sk=photos_by" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
- <!--
 
   ![Snake animation](https://github.com/Giovanenero/Giovanenero/blob/output/github-contribution-grid-snake.svg)
--->
-
 </div>
 
