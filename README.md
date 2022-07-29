@@ -2,7 +2,7 @@
 
 - 🟢🟡 I'm currently living in Brazil
 - 🔭 I’m currently Computer Engineering student at the Federal Technological University of Paraná(UTFPR);
-- 🌱 I’m currently learning java, english and french;
+- 🌱 I’m currently learning html, english and french;
 - 🤔 I’m looking for a job;
 - 💬 Ask me about games and studies;
 - 😄 Pronouns: Nano or Gege;
