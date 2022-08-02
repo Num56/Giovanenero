@@ -1,12 +1,5 @@
 ## Hi!! Welcome to my profile 👋
 
-- 🟢🟡 I'm currently living in Brazil
-- 🔭 I’m currently Computer Engineering student at the Federal Technological University of Paraná(UTFPR);
-- 🌱 I’m currently learning html, english and french;
-- 🤔 I’m looking for a job;
-- 💬 Ask me about games and studies;
-- 😄 Pronouns: Nano or Gege;
-
 <!-- Tabela -->
 <div align="center">
   <a href="https://github.com/Giovanenero">
