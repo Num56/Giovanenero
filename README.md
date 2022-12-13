@@ -18,6 +18,7 @@
 ##
 
 <div> 
+   <a href="https://www.youtube.com/channel/UCUa8BOx2F3hlxgPcpZmnBnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:giovanesalvi@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="mailto:giovanelimas16@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/giovane-limas-salvi-726193245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
