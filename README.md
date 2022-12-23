@@ -8,7 +8,7 @@
 </div>
 
 <!-- Icone -->
-<div style="display: inline_block align: center"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Giovane-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Giovane-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Giovane-Cplusplus" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
